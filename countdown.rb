@@ -2,4 +2,5 @@
 
 def countdown(integer)
   
+  puts "#{number} SECOND(S)!"
 end
